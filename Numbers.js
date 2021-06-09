@@ -1,7 +1,7 @@
-function Sum(a = 7,b = 4,c = 3)
+function Sum(a ,b ,c )
 {
     
     var result = a + b *c;
     console.log(result);
 }
-Sum()
+Sum(7,4,2)
